@@ -61,5 +61,4 @@ The goal of this project is to analyze a dataset containing insurance-related de
 ## 📌 Results
 
 - The *Random Forest Regressor* gave the most accurate predictions among the tested models.
-- Achieved an R² Score of around XX.XX% (fill this from your notebook output).
 - Feature importance showed *smoker* and *bmi* to be significant predictors of insurance charges.
